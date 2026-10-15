@@ -1,0 +1,51 @@
+export const contentPanels = {
+  journey: {
+    eyebrow: 'Your study plan',
+    title: 'Begin with the right questions',
+    intro: 'We start by understanding your circumstances before discussing suitable study opportunities.',
+    items: ['Academic background', 'Preferred destination', 'Budget and financial considerations', 'Future ambitions'],
+    note: 'Every student has a different starting point and a different goal.',
+  },
+  counselling: {
+    eyebrow: 'Personalised counselling',
+    title: 'Guidance shaped around you',
+    intro: 'Your education, interests, circumstances, and long-term plans help guide the conversation.',
+    items: ['Understand your profile', 'Explore suitable pathways', 'Compare relevant options', 'Plan the next steps'],
+    note: 'Clear information supports informed decisions.',
+  },
+  office: {
+    eyebrow: 'Visit Success Hub',
+    title: 'Meet us in Birtamod',
+    intro: 'Our team welcomes students who are ready to explore academic opportunities beyond Nepal.',
+    items: ['Bhadrapur Road', 'Near Siddhartha Bank', 'Birtamod, Jhapa, Nepal', 'General enquiries 9815914629'],
+    note: 'A conversation can help you understand your next steps.',
+  },
+  world: {
+    eyebrow: 'Explore your options',
+    title: 'Five destination pathways',
+    intro: 'Each destination has different opportunities, requirements, costs, and experiences.',
+    items: ['South Korea', 'United Kingdom', 'Australia', 'Canada', 'Selected European countries'],
+    note: 'Current requirements should always be verified with official sources.',
+  },
+  team: {
+    eyebrow: 'People behind Success Hub',
+    title: 'A team ready to guide your journey',
+    intro: 'Our team supports students from their first enquiry through the relevant preparation stages.',
+    items: ['Leadership and coordination', 'Front desk support', 'Documentation guidance', 'Teaching and academic preparation'],
+    note: 'Professional, informative, and student-focused support.',
+  },
+  services: {
+    eyebrow: 'Practical support',
+    title: 'Guidance across the relevant stages',
+    intro: 'Services are organised around the decisions and preparation involved in exploring study abroad.',
+    items: ['Personalised counselling', 'Course and destination selection', 'Application and documentation guidance', 'Interview and pre-departure preparation where offered'],
+    note: 'Admission and visa outcomes cannot be guaranteed.',
+  },
+  contact: {
+    eyebrow: 'Speak with our team',
+    title: 'Choose the way that suits you',
+    intro: 'Tell us about your study plans and we can help you understand the available next steps.',
+    items: ['Call 9815914629', 'Office telephone 023-591391', 'Email birtamodsuccesshub@gmail.com', 'Visit Bhadrapur Road, Birtamod'],
+    note: 'Your enquiry details are used only to respond to you.',
+  },
+}
